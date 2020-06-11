@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0c44907-f776-47db-88d8-d9d8ebb07d07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/img/newlogin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/img/newlogin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/img/newlogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/img/newlogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-devtools.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/bsp/organ/employeeAdd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/bsp/organ/employeeEdit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/bsp/organ/employeeView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/backPayment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/gxswJcsjInfo/gxswJcsjInfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/gxswJcsjInfo/gxswJcsjInfo_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/gxswJcsjInfo/gxswJcsjInfo_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/payableinfo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/reconciliation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/townpayable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/gxsw/villagepayable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/attachmentDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/autoCompleteDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/bootStrapTableAPI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/bootStrapTableDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/bootstrapEditTable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/cascadeDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/changeNumToWordDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/changeToPinyinDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/customTagDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/dataDicDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/docviewDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/editListDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/ehcacheDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/encoderQRCodeDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/formVilidate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/idCardCheckDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/idTableDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/multiSelectDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/orgTreeDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/queryTableDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/redisCacheDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/totalTableDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/ueditorDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/workCalendarDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/hussardemo/ztreeDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/iscapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/view/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-produce.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/HussarApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/bsp/organ/model/SysOffice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/bsp/organ/model/SysStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/controller/GxswJcsjInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/controller/GxswPayableInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/controller/ReconciliationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/GxswJcsjInfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/GxswPayableInfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/GxswSocialSecurityDataMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/GxswTaxBureauDataMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/LevyDetailsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/mapping/GxswJcsjInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/mapping/GxswPayableInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/mapping/GxswSocialSecurityDataMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/mapping/GxswTaxBureauDataMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/dao/mapping/LevyDetailsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/model/GxswJcsjInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/model/GxswPayableInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/model/GxswSocialSecurityData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/model/GxswTaxBureauData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/model/LevyDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/GxswPayableInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/IGxswJcsjInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/ReconciliationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/GxswJcsjInfoServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/GxswJcsjInfoServiceImpl$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/GxswJcsjInfoServiceImpl$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/GxswJcsjInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/GxswPayableInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/gxsw/service/impl/ReconciliationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/AttachmentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/AutoCompleteDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/BootStrapTableAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/BootStrapTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/BootstrapEditTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/CacheDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/CascadeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/ChangeNumToWordDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/ChangeToPinyinDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/CustomTagDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/DataDicDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/DocviewDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/EditListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/EncoderQRCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/FormVilidateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/IdCardCheckDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/IdTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/MultiSelectDemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/OrgTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/QueryTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/RestDemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/TotalTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/UEditorDemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/WorkCalendarDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussardemo/controller/zTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussarrestclient/auth/controller/HussarAuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/hussarrestclient/auth/validator/impl/HussarDbValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/CreateBatchInsertSql.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/DownLoadUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/ExcelSaxReader$DefaultSheetHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/ExcelSaxReader$ISheetContentHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/ExcelSaxReader$ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/ExcelSaxReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/MyCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/NewExcelSaxReader$DefaultSheetHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/NewExcelSaxReader$ISheetContentHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/NewExcelSaxReader$ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/NewExcelSaxReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/PlDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/BaseThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/BaseThreadPool$Execute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/BaseThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/Callback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/ExcelUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/ExcelXlsxHandle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/ExcelXlsxHandle$CellDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/ExcelXlsxHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/MyWorkbook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/SimpleThreadPool$Callback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jxdinfo/hussar/util/bigdataexcel/SimpleThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ehcache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/isc-conf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kaptcha.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bsp/organ/js/employeeAdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bsp/organ/js/employeeEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/bsp/project_ext.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/common/project_ext.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/core/project_ext.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/hussardemo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/hussardemo/docviewDemo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/project_ext.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/bootstrap-table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/editstyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/css/same.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/gxswJcsjInfo/gxswJcsjInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/gxswJcsjInfo/gxswJcsjInfo_info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/js/backPayment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/js/payable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/js/payableInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/js/reconciliation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/gxsw/js/villagepayable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/img/newlogin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/img/newlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/common/formVerify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/attachmentDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/autoComplateDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/bootStrapTableAPI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/bootStrapTableDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/bootstrapEditTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/cascadeDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/changeNumToWordDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/changeToPinyinDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/customTagDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/dataDicDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/docviewDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/editListDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/ehcacheDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/encoderQRCodeDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/formVilidateDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/idCardCheckDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/idTableDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/multiSelectDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/orgTreeDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/queryTableDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/redisCacheDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/totalTableDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/ueditorDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/workCalendarDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/hussardemo/zTreeDemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/svg/redis9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ueditor/config/ueconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ureport.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\office\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\office\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cjxNHuWXKCFhJtfmBi4wqdbJsZ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/static/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\office\jxd\1.冠县税务局项目\gxsw\gxswsjdb\src\main\webapp\static\img" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager">
+    <configuration name="HussarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gxsw" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.HussarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c44907-f776-47db-88d8-d9d8ebb07d07" name="Default Changelist" comment="" />
+      <created>1591055761682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591055761682</updated>
+      <workItem from="1591055764145" duration="1037000" />
+      <workItem from="1591059466498" duration="58000" />
+      <workItem from="1591102464292" duration="1220000" />
+      <workItem from="1591107342819" duration="2061000" />
+      <workItem from="1591144447123" duration="1163000" />
+      <workItem from="1591166846701" duration="446000" />
+      <workItem from="1591343416334" duration="608000" />
+      <workItem from="1591860584030" duration="1929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="113" key="FileChooserDialogImpl" timestamp="1591860762881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="113" key="FileChooserDialogImpl/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591860762881" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.1.center" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.center/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.1.left" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.left/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.1.right" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.right/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.2.bottom" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.2.bottom/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.2.center" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.2.center/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.2.left" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.2.left/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state width="1493" height="183" key="GridCell.Tab.2.right" timestamp="1591862516357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.2.right/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591862516357" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591860765740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591860765740" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591108834482" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591166274720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591166274720" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591861140854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1159.-1080.1920.1040@0.0.1536.824" timestamp="1591861140854" />
+  </component>
+</project>
